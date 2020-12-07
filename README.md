@@ -1,12 +1,10 @@
 # Hello there 👋
 Welcome to my profile page!
 
-Here, you will find some personal projects which idk what im going to do with it so there it is
-
 - 📧 Find me @ www.ricoip.com / [sonothing.emailme@gmail.com](mailto:sonothing.emailme@gmail.com)
-- 🌱 I’m currently learning... idk. I will probably learn JavaScript __\*__.
+- 🌱 I’m currently learning... idk. I will probably learn JavaScript.
+- 📚 I know... 0 programming languages.
 
-__\*__ That depends on how lazy I am... and I am very lazy 
 <!--
 **ricoip/ricoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
