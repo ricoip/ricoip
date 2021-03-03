@@ -12,7 +12,7 @@ Welcome to my profile page!
 
 - 🔭 I’m currently working on:
   - Not related to coding but I'm trying to participate in the MOS Championship.
-    - I hope I can get it but the odds are unknown ¯\\_(ツ)\_/¯
+    - I hope I can get in but the odds are unknown ¯\\_(ツ)\_/¯
 
 <!--
 **ricoip/ricoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
