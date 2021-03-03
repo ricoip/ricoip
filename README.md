@@ -2,10 +2,17 @@
 Welcome to my profile page!
 
 - 📧 Find me @ www.ricoip.com / [sonothing.emailme@gmail.com](mailto:sonothing.emailme@gmail.com)
+
 - 🌱 I’m currently learning:
-  - JavaScript: Complete Beginner
+  - JavaScript: Complete Beginner (From online resources)
   - Visual Basic: Beginner (From school)
-- 📚 I know... around 0 programming languages.
+
+- 📚 I know... around 1 programming language.
+  - HTML & CSS: not-so Beginner, still new to this though (From school)
+
+- 🔭 I’m currently working on:
+  - Not related to coding but I'm trying to participate in the MOS Championship.
+    - I hope I can get it but the odds are unknown ¯\\_(ツ)\_/¯
 
 <!--
 **ricoip/ricoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
