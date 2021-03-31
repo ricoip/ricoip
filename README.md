@@ -1,7 +1,12 @@
 # Hello there 👋
 Welcome to my profile page!
 
-- 📧 Find me @ www.ricoip.com / [sonothing.emailme@gmail.com](mailto:sonothing.emailme@gmail.com)
+- 📧 Find me:
+    |            Places           | Typical Response Time |
+    |-----------------------------|:---------------------:|
+    |        www.ricoip.com       |          N/A          |
+    |[sonothing.emailme@gmail.com]|       < 12 hours      |
+    | Twitter DM: [@ricoipwk][tw] |       < 24 hours      |
 
 - 🌱 I’m currently learning:
   - JavaScript: Complete Beginner (From online resources)
@@ -28,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- External Links-->
+[sonothing.emailme@gmail.com]: mailto:sonothing.emailme@gmail.com
+[tw]: https://twitter.com/messages/compose?recipient_id=1168542658769256449
