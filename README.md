@@ -17,9 +17,8 @@ Welcome to my profile page!
 - 📚 I know... around 1 programming language.
   - HTML & CSS: not-so Beginner, still new to this though (From school)
 
-- 🔭 I’m currently working on:
-  - Not related to coding but I'm trying to participate in the MOS Championship.
-    - I hope I can get in but the odds are unknown 🤷‍♂️
+- ⚡ Fun fact:
+    I'm actually a Microsoft Office Specialist for PowerPoint 2016!
 <!--
 **ricoip/ricoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
