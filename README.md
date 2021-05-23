@@ -18,7 +18,7 @@ Welcome to my profile page!
   - HTML & CSS: not-so Beginner, still new to this though (From school)
 
 - ⚡ Fun fact:
-  - I'm actually a Microsoft Office Specialist for PowerPoint 2016!
+  - I'm actually a Microsoft Office Specialist for PowerPoint 2016 and 2019/O365!
 <!--
 **ricoip/ricoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
