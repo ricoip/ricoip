@@ -22,23 +22,17 @@ Example: [ricoip.github.io](https://github.com/ricoip/ricoip.github.io)
 *If the domain name has since been expired after the project's abandonment, 
 the prefix rules below will apply, where the domain name is `ProjectName`.*
 
-### Why no prefixes?
-This is a special convention where your "root" GitHub Pages 
-(i.e. [ricoip.github.io](https://github.com/ricoip/ricoip.github.io)) 
-should be named as the domain name itself so that GitHub Pages 
-can automatically kick in, without any tinkering with the Pages settings.
-
-Since my website is like this already, I have applied this rule to every website 
-I made for consistency.
-
 ## Formatting
-If the repository is used for projects in school, they will be formatted as 
+~~If the repository is used for projects in school, they will be formatted as 
 `School_[NameOfSchool]-[Form/Year/Activity]_[ProjectName]`.  
-Example: "School_XXX-F6_FinalProj"
+Example: "School_XXX-F6_FinalProj"~~
 
-If the repository is used for personal projects, they will be formatted as 
+~~If the repository is used for personal projects, they will be formatted as 
 `ricoip_[ProjectName]`.  
-Example: [ricoip_WebDevCourse](https://github.com/ricoip/ricoip_WebDevCourse)
+Example: [ricoip_WebDevCourse](https://github.com/ricoip/ricoip_WebDevCourse)~~
+
+This rule has been removed as of March 2024.  
+With the exception of some forks, there will no longer be any prefixes to identify projects.
 
 ## Capitalisation
 If the word itself is not a proper noun, the project name will follow 
